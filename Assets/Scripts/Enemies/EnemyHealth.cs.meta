@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50e53fff693f9e94bbd54da990c81c92
+timeCreated: 1448637559
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _healthBar: {instanceID: 0}
+  - _smokeFX: {fileID: 119258, guid: 1fa4b61ab803d0f4abf3d468abbec21e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
